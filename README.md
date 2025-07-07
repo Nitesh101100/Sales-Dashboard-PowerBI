@@ -6,16 +6,26 @@ To analyze retail sales data across multiple regions and products to gain insigh
 
 # Dashboard Features:-
 Total Sales, Units Sold, and Average Price (KPI cards)
+
 Monthly Sales Trend (Line Chart)
+
 Region-wise Sales Breakdown (Bar Chart)
+
 Product-wise Revenue Contribution (Donut Chart)
+
 Top 10 Orders by Revenue (Table View)
+
 Interactive Slicers for Month, Region, and Product
+
 # Tools Used:-
 Power BI Desktop
+
 DAX for calculated columns (Total Sales)
+
 **Excel / CSV for data import and cleanup
+
 # key Insights:-
+
 Monthly Sales Trends March and December recorded the highest total sales, indicating strong seasonal demand. Sales dipped in July and September, showing potential off-season or marketing gaps.
 
 Region-wise Performance South Region contributed the highest revenue overall, followed closely by North. East Region underperformed across most months — needs targeted sales or promotions.
